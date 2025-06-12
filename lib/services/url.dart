@@ -1,0 +1,1 @@
+final String BaseUrl = "http://domain/be_movie/public/api";
