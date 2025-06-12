@@ -2,15 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+## Register User
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/8e17c865-3c50-4ff0-93e0-b7fdbc4824d2)
 
-A few resources to get you started if this is your first Flutter project:
+## Login User
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/dd0454a9-8da6-4b28-b9c5-bff2bc8558a9)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Kasir Navbar
+
+![image](https://github.com/user-attachments/assets/d1c85d9c-746b-4d91-ba7b-eaf7b1c10a7a)
+
+## Admin Navbar
+
+![image](https://github.com/user-attachments/assets/37f6fc70-a8fb-498c-a556-311eeea71b0f)
